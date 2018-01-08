@@ -84,11 +84,12 @@
         },
         "ufa": {
             "type": "git",
-            "url": "git@192.168.1.232:service/ufa.git"
+            "url": "git@github.com:zjjzjw/service-ufa.git"
         },
         "foundation": {
             "type": "git",
-            "url": "git@192.168.1.232:service/foundation.git"
+            "url": "git@github.com:zjjzjw/service-foundation-.git"
+
         }
     }
 }
