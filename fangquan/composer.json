@@ -88,7 +88,7 @@
         },
         "foundation": {
             "type": "git",
-            "url": "git@github.com:zjjzjw/service-foundation-.git"
+            "url": "git@github.com:zjjzjw/service-foundation.git"
 
         }
     }
